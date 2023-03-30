@@ -1,0 +1,23 @@
+.xx{
+    align-items: center;
+    width: 20%;
+}
+
+.xx1{
+    padding-top: 20px;
+    border: black;
+}
+
+body{
+    background-color: rgb(184, 172, 151);
+}
+ .xx3{
+    flex: 0 0 auto;
+    width: 25%;
+    padding: 2%;
+    width: 500px;
+    background-color: aliceblue;
+    margin-left: 35%;
+    margin-top:9%;
+    border-radius: 10px;
+}
